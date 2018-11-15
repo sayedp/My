@@ -9,7 +9,6 @@ How to run
 
 ./strace_parser.sh <stracefilename>
 
-
 sasha@SASHA-IN [~]$ ./strace_parser.sh strace_shut.txt
 
 ####################################################################################
